@@ -1,4 +1,4 @@
-# EDA_influenza
+# Comprehensive_EDA_influenza
 This repository contains the data cleaning, analysis and visualizations of the influenza dataset obtained from WHO
 
 Overview of the project and the goals
