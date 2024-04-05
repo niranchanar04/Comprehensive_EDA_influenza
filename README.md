@@ -4,7 +4,7 @@ This repository contains the data cleaning, analysis and visualizations of the i
 Overview of the project and the goals
 The project deals with performing exploratory data analysis on the Influenza dataset obtained from WHO.This information can help in understanding the trends in the disease to better track and handle the influenza spread. Influenza dataset provides the count of the cases tested positive for influenza across regions and countries. The virus type for the recorded cases have also been specified. Additionally, the accompanying FLUID dataset also provides information about influenza-like-illness cases,their seriousness and fatalities.
 
-## Goals related to the analysis plans:-
+### Goals related to the analysis plans:-
 *  The analysis is focussed on areas with highest values of reported count of influenza and Influenza-like illness region-wise and country-wise in the recent years.
 
 * Perform EDA by removing missing and inconsistent values,removing duplicate rows,unwanted rows and columns.I may group together suitable columns,change data type /column name to make it more appropriate and perform other required pre-processing. Understand the worldwide trend of total influenza cases.I would liked to determine the region wise(WHO has 6 regions) distribution of influenza cases and also find out countries with the highest count of influenza cases in the recent years.
