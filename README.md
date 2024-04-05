@@ -7,7 +7,7 @@ The project deals with performing exploratory data analysis on the Influenza dat
 ### Goals related to the analysis plans:-
 *  The analysis is focussed on areas with highest values of reported count of influenza and Influenza-like illness region-wise and country-wise in the recent years.
 
-* Perform EDA by removing missing and inconsistent values,removing duplicate rows,unwanted rows and columns.I may group together suitable columns,change data type /column name to make it more appropriate and perform other required pre-processing. Understand the worldwide trend of total influenza cases.I would liked to determine the region wise(WHO has 6 regions) distribution of influenza cases and also find out countries with the highest count of influenza cases in the recent years.
+* Perform data clearning by removing missing and inconsistent values,removing duplicate rows,unwanted rows and columns.I may group together suitable columns,change data type /column name to make it more appropriate and perform other required pre-processing. Understand the worldwide trend of total influenza cases.I would liked to determine the region wise(WHO has 6 regions) distribution of influenza cases and also find out countries with the highest count of influenza cases in the recent years.
 
 * Understand the recent yearly and seasonal trends in the selected countries.
 
