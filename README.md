@@ -1,5 +1,5 @@
 # Comprehensive_EDA_influenza
-This repository contains the data cleaning, analysis and visualizations of the influenza dataset obtained from WHO
+This repository contains the data cleaning, analysis and visualizations of the messy influenza dataset obtained from WHO
 
 Overview of the project and the goals
 The project deals with performing exploratory data analysis on the Influenza dataset obtained from WHO.This information can help in understanding the trends in the disease to better track and handle the influenza spread. Influenza dataset provides the count of the cases tested positive for influenza across regions and countries. The virus type for the recorded cases have also been specified. Additionally, the accompanying FLUID dataset also provides information about influenza-like-illness cases,their seriousness and fatalities.
